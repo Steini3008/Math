@@ -1,4 +1,4 @@
-SOURCE_FILE_NAMES := SimpleMath
+SOURCE_FILE_NAMES := SimpleMath ComplicatedMath
 LIBRARY_NAME := simple_math.jar
 
-include ..\java.mk
+include java.mk
